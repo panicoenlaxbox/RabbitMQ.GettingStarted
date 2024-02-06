@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Send", "Send\Send.csproj", "{154B582A-0B56-429E-A31E-CBA30F320DCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receive", "Receive\Receive.csproj", "{BD141D05-B1D7-46A8-BA3D-8E4D5EFF7064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{154B582A-0B56-429E-A31E-CBA30F320DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{154B582A-0B56-429E-A31E-CBA30F320DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{154B582A-0B56-429E-A31E-CBA30F320DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{154B582A-0B56-429E-A31E-CBA30F320DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD141D05-B1D7-46A8-BA3D-8E4D5EFF7064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD141D05-B1D7-46A8-BA3D-8E4D5EFF7064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD141D05-B1D7-46A8-BA3D-8E4D5EFF7064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD141D05-B1D7-46A8-BA3D-8E4D5EFF7064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
